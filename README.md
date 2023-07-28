@@ -1,7 +1,5 @@
-<div style="text-align: center;">
-  <h1>Eston Kamau</h1>
-    <a href="https://github.com/EstonKamau">
-    </a>
+<div align="center">
+  <h1>Hi there, I'm <a href="https://github.com/EstonKamau">Eston</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
 
 
@@ -9,6 +7,10 @@
   <a href="https://github.com/EstonKamau/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Passionate%20Data%20Scientist;Data%20driven%20explorer;Adaptable%20problem%20solver;2%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
+
+<div align="center">
+<h3> Eston Kamau | Data Scientist | Kenya </h3>
+</div>
 
 ---
 
